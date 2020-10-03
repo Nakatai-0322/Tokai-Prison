@@ -1,0 +1,612 @@
+<!doctype html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<title>東海刑務所説明書 &#8211; Nakatai_0322Official-Site</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//wordpress.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Nakatai_0322Official-Site &raquo; フィード" href="https://nakatai0322.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nakatai_0322Official-Site &raquo; コメントフィード" href="https://nakatai0322.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1596548281h&ver=5.5-wpcom-48929"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJydkutugzAMhV9oIbBOm/pj2rPkNnDJTYlTxtvPpB2qaIWqCSnKcc5nJzZ8ikwFj8Yjd4VFW3rwmU9RBceyA2vmjWpUzi/8MZaLzCpBRAikvoO1YdrzD+FsEpNFSmuIxtma1Q5e2aIpTAGuRR6AEuTGgb+3nDJHOh9l+Fk3e3UtjAtlMAo1sqru7H/evpCUJvV0kgw/Nm3TclnAai5tqLhMIs2b6/87DQ7GPZOmUjePEHMoyPoE+umbbFIkgeD77Ry2uApX7LWhj2vIuMbYY/Sm80LTAJkU6fpTrfoCAfcB66DXzV62pZUUd1Hg4nBGgzCW+udxD7uUljImkzOj1UFxrDa+lvtyn9172x2OH2+H7vQLL4ks0g==?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<style id='wpcom-admin-bar-inline-css'>
+
+			.admin-bar {
+				position: inherit !important;
+				top: auto !important;
+			}
+			.admin-bar .goog-te-banner-frame {
+				top: 32px !important
+			}
+			@media screen and (max-width: 782px) {
+				.admin-bar .goog-te-banner-frame {
+					top: 46px !important;
+				}
+			}
+			@media screen and (max-width: 480px) {
+				.admin-bar .goog-te-banner-frame {
+					position: absolute;
+				}
+			}
+		
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--color--black:#000000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--white:#ffffff;--wp--preset--color--primary:#1279BE;--wp--preset--color--secondary:#FFB302;--wp--preset--color--foreground-dark:#101010;--wp--preset--color--foreground:#303030;--wp--preset--color--foreground-light:#757575;--wp--preset--color--background-dark:#C5C5C5;--wp--preset--color--background-light:#F8F8F8;--wp--preset--color--background:#FFFFFF;--wp--preset--font-size--small:17.3914;--wp--preset--font-size--normal:23;--wp--preset--font-size--medium:20;--wp--preset--font-size--large:26.45;--wp--preset--font-size--huge:30.4174;--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);}
+</style>
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/wp-content/mu-plugins/comment-likes/css/comment-likes.css?m=1407378799h&cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-3-1' href='https://s0.wp.com/wp-content/themes/pub/varia/print.css?m=1571655471h&cssminify=yes' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s0.wp.com/_static/??-eJx9jdEOgjAMRX/IWiRK4oPxW8YoY7qty9ZB/HshvqAS3nrTc+7FKYLmIBQEZSBPGWNpcaCREmZ5OTrqnA+4jY0qWYU26A8KU9Ts/wRfILpibMg42c6QZKQyf/lpCZyaUMhHp2Qu3V5cFRhicKyVWA5fAXqnbNpTAy8LqvM2QKsSjPUenah1bObT4Eyt4p4knCFR5CTQc/K/eVHv/nZqquranC9V/XgDariO6A==?cssminify=yes' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='hever-fonts-css'  href='https://fonts.googleapis.com/css?family=PT+Sans%3A400%2C400i%2C700%2C700i&#038;subset=latin%2Clatin-ext&#038;display=swap' media='all' />
+<link rel='stylesheet' id='all-css-6-1' href='https://s0.wp.com/_static/??-eJx9jEEOgzAMBD9EcCMQVQ9V3xKCBamwE8UOVX9PuCBO3Ear2YFfMj6yIivogoQCqYyw4IYZRP8rtl6kgYtGxaS1zIEF3ESBzegykBPFXMnE+sxhqqFzu014DZGPxEmH/qG3HR62ez37zn53hJA9YA==?cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link rel='stylesheet' id='all-css-8-1' href='https://s0.wp.com/_static/??-eJxti8sKgCAQAH8oW6KHdoi+xcTUWF1pjX4/OnSIOg0DM3BmYSgVmwrEQ2Q8XEgMmbiIFXXYgb3eQ3IPa8Ncwf/FZIJGgeToLZ+peBstg+/AIS0a72COU9OPUg69atV2AWWKN+I=?cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJxtjuEKwjAMhF/IGmR0+Ed8Fle7kdImtWkYvr35sYHK4CDc8ZE7WKtDClmfUSCZXhrbezvnJCcwIDD1SB2Kupp1QRIQnSQ0rB3Z3Mw58/qP27vCE+boVGJ7LJZZ18w7990rFeko/92zUfdyu3h/Hfw4+iF9AFKjSBU='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nakatai0322.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s0.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://nakatai0322.wordpress.com/tokai-prison/users-manual/" />
+<link rel='shortlink' href='https://wp.me/PbVDZ3-4I' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fnakatai0322.wordpress.com%2Ftokai-prison%2Fusers-manual%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fnakatai0322.wordpress.com%2Ftokai-prison%2Fusers-manual%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="東海刑務所説明書" />
+<meta property="og:url" content="https://nakatai0322.wordpress.com/tokai-prison/users-manual/" />
+<meta property="og:description" content="東海刑務所を選んで下さり，誠にありがとうございます。早速ですが，これをプレイの前にご熟読下さい。 About「&hellip;" />
+<meta property="article:published_time" content="2020-07-05T08:46:59+00:00" />
+<meta property="article:modified_time" content="2020-09-08T08:06:19+00:00" />
+<meta property="og:site_name" content="Nakatai_0322Official-Site" />
+<meta property="og:image" content="https://nakatai0322.files.wordpress.com/2020/04/e38380e382a6e383b3e383ade383bce38389-1.png?w=32" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:locale" content="ja_JP" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:text:title" content="東海刑務所説明書" />
+<meta name="twitter:image" content="https://nakatai0322.files.wordpress.com/2020/04/e38380e382a6e383b3e383ade383bce38389-1.png?w=32" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://nakatai0322.wordpress.com/osd.xml" title="Nakatai_0322Official-Site" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="Nakatai_0322Official-Site" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="新型コロナで苦しいのは誰でも同じ。" /><meta name="msapplication-task" content="name=ページを編集;action-uri=https://wordpress.com/page/nakatai0322.wordpress.com/292;icon-uri=https://s0.wp.com/i/icons/page.ico" /><meta name="msapplication-task" content="name=投稿を追加;action-uri=https://wordpress.com/post/nakatai0322.wordpress.com;icon-uri=https://s0.wp.com/i/icons/post.ico" /><meta name="msapplication-task" content="name=コメントのモデレート;action-uri=https://nakatai0322.wordpress.com/wp-admin/edit-comments.php?comment_status=moderated;icon-uri=https://s0.wp.com/i/icons/comment.ico" /><meta name="msapplication-task" content="name=新規メディアファイルをアップロード;action-uri=https://nakatai0322.wordpress.com/wp-admin/media-new.php;icon-uri=https://s0.wp.com/i/icons/media.ico" /><meta name="msapplication-task" content="name=ブログ統計情報;action-uri=https://nakatai0322.wordpress.com/wp-admin/index.php?page=stats;icon-uri=https://s0.wp.com/i/icons/stats.ico" /><meta name="description" content="東海刑務所を選んで下さり，誠にありがとうございます。早速ですが，これをプレイの前にご熟読下さい。 About「&hellip;" />
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="https://nakatai0322.files.wordpress.com/2020/04/e38380e382a6e383b3e383ade383bce38389-1.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://nakatai0322.files.wordpress.com/2020/04/e38380e382a6e383b3e383ade383bce38389-1.png?w=32" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://nakatai0322.files.wordpress.com/2020/04/e38380e382a6e383b3e383ade383bce38389-1.png?w=32" />
+<meta name="msapplication-TileImage" content="https://nakatai0322.files.wordpress.com/2020/04/e38380e382a6e383b3e383ade383bce38389-1.png?w=32" />
+</head>
+
+<body class="page-template-default page page-id-292 page-child parent-pageid-257 logged-in admin-bar no-customize-support wp-custom-logo wp-embed-responsive customizer-styles-applied singular image-filters-enabled hide-homepage-title highlander-enabled highlander-light">
+
+		<div id="wpadminbar" class="nojq nojs ltr">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">ツールバーへスキップ</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="ツールバー" tabindex="0">
+						<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+			
+		<li id="wp-admin-bar-blog" class="my-sites mb-trackable"><a class="ab-item"  href="https://wordpress.com/sites/nakatai0322.wordpress.com">参加サイト</a>		</li>
+		<li id="wp-admin-bar-jumptotop-button-menu"><a class="ab-item"  href="#"><div id="jumptotop"><span class="noticon noticon-top"></span></div></a>		</li>
+		<li id="wp-admin-bar-newdash" class="mb-trackable"><a class="ab-item"  href="https://wordpress.com/read">購読ブログ</a>		</li>		</ul>
+			<ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+			
+		<li id="wp-admin-bar-notes" class="menupop">		<div class="ab-item ab-empty-item" ><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-unread"></span><span class="noticon noticon-bell"></span><span class="ab-text">通知</span></div><div id="wpnt-notes-panel2" style="display:none" lang="ja" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header"></span><span class="wpnt-notes-panel-link"></span></div></div>		</li>
+		<li id="wp-admin-bar-my-account" class="with-avatar mb-trackable"><a class="ab-item"  href="https://wordpress.com/me/"><img alt='' src='https://1.gravatar.com/avatar/a77b39d1d58d87119d43fc31d6c500dc?s=32&#038;d=mm&#038;r=G' class='avatar avatar-32' height='32' width='32' /><span class="ab-text">自分</span></a>		</li>
+		<li id="wp-admin-bar-ab-new-post" class="mb-trackable"><a class="ab-item"  href="https://wordpress.com/block-editor/post/nakatai0322.wordpress.com"><span>投稿</span></a>		</li>		</ul>
+				</div>
+							<a class="screen-reader-shortcut" href="https://nakatai0322.wordpress.com/wp-login.php?action=logout&#038;_wpnonce=e489504c2b">ログアウト</a>
+					</div>
+
+	
+<script type="text/javascript">
+/* <![CDATA[ */
+var clickDebugLink;
+
+jQuery(document).ready( function($) {
+	var single = false, w = 1000,
+		supe = false;
+
+	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
+
+	if ( single && supe )
+		w = 1385;
+	else if ( supe )
+		w = 1200;
+
+	// debug bar extra
+	clickDebugLink = function( parent_id, obj ) {
+
+		$('#'+parent_id).children('div').hide();
+
+		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
+		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
+
+		$(obj).parent().addClass('current').siblings('li').removeClass('current');
+
+		return false;
+	};
+
+	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
+		$( '#adminbar-shortlink-input' ).select();
+	});
+
+	// skip tap-to-hover on site switcher for mobile
+	if ( 'ontouchstart' in window ) {
+		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
+			if ( $( window ).width() > 782 ) {
+				return;
+			}
+			event.stopPropagation();
+			$( event.target ).first( 'a' ).click();
+		});
+	}
+
+});
+/* ]]> */
+</script>
+	<div class="wpcom-bubble action-bubble">
+		<div class="bubble-txt"></div>
+	</div>
+	<script type="text/javascript">function hideBubble() { jQuery('body').append( jQuery( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble touchstart.bubble' ); jQuery(document).off( 'scroll.bubble' ); };</script>
+		<script type="text/javascript">
+	jQuery( '#wp-admin-bar-jumptotop-button-menu a' ).click( function( e ) {
+		e.preventDefault();
+		jQuery( 'html, body' ).animate( { scrollTop: 0 }, 'fast' );
+	} );
+	function hideShowTbJumpToTop() {
+		var total_width = 0;
+		// Calculate total width taken by items minus our button to see if it'll
+		// overlap with other toolbar menus.
+		jQuery( '#wp-admin-bar-root-default > li' ).each( function() {
+			var self = jQuery( this );
+			if ( 'wp-admin-bar-jumptotop-button-menu' != self.attr( 'id' ) )
+				total_width += self.width();
+		});
+		if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() >= 350 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) < 0 ) {
+			if ( jQuery( '#wp-admin-bar-jumptotop-button-menu' ).position()['left'] - total_width < 10 )
+			   return;
+			jQuery( '#jumptotop' ).animate( { 'top': 0 }, 'fast' );
+		} else if (  jQuery( window ).scrollTop() < 1 && parseInt( jQuery( '#jumptotop' ).css( 'top' ) ) >= 0 ) {
+			jQuery( '#jumptotop' ).animate( { 'top': '-50px' }, 'fast' );
+		}
+	}
+	// handle on page load if auto scrolling to a position
+	hideShowTbJumpToTop();
+	// bind to scrolll event
+	var jumpToTopTimer = null;
+	jQuery( window ).scroll( function() {
+		clearTimeout( jumpToTopTimer );
+		jumpToTopTimer = setTimeout( jumpToTopRefresh, 150 );
+	} );
+	var jumpToTopRefresh = function() {
+		hideShowTbJumpToTop();
+	};
+	</script>
+		
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">コンテンツへスキップ</a>
+
+	
+		<header id="masthead" class="site-header responsive-max-width">
+
+			
+	<div class="site-logo"><a href="https://nakatai0322.wordpress.com/" class="custom-logo-link" rel="home"><img width="32" height="30" src="https://nakatai0322.files.wordpress.com/2020/04/cropped-e38380e382a6e383b3e383ade383bce38389-1.png" class="custom-logo" alt="Nakatai_0322Official-Site" data-attachment-id="43" data-permalink="https://nakatai0322.wordpress.com/cropped-e38380e382a6e383b3e383ade383bce38389-1-png/" data-orig-file="https://nakatai0322.files.wordpress.com/2020/04/cropped-e38380e382a6e383b3e383ade383bce38389-1.png" data-orig-size="32,30" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cropped-e38380e382a6e383b3e383ade383bce38389-1.png" data-image-description="&lt;p&gt;https://nakatai0322.files.wordpress.com/2020/04/cropped-e38380e382a6e383b3e383ade383bce38389-1.png&lt;/p&gt;
+" data-medium-file="https://nakatai0322.files.wordpress.com/2020/04/cropped-e38380e382a6e383b3e383ade383bce38389-1.png?w=32" data-large-file="https://nakatai0322.files.wordpress.com/2020/04/cropped-e38380e382a6e383b3e383ade383bce38389-1.png?w=32" /></a></div>
+
+			<p class="site-title"><a href="https://nakatai0322.wordpress.com/" rel="home">Nakatai_0322Official-Site</a></p>
+	
+		<p class="site-description">
+			新型コロナで苦しいのは誰でも同じ。		</p>
+
+							<nav id="site-navigation" class="main-navigation" aria-label="メインナビゲーション">
+					<input type="checkbox" role="button" aria-haspopup="true" id="toggle" class="hide-visually">
+					<label for="toggle" id="toggle-menu" class="button">
+						メニュー						<span class="dropdown-icon open">+</span>
+						<span class="dropdown-icon close">&times;</span>
+						<span class="hide-visually expanded-text">開いた状態</span>
+						<span class="hide-visually collapsed-text">閉じた状態</span>
+					</label>
+					<div class="menu-primary-container"><ul id="menu-primary" class="main-menu" aria-label="submenu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://nakatai0322.wordpress.com/blog/">ブログ</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://nakatai0322.wordpress.com/about/">自己紹介</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://nakatai0322.wordpress.com/contacts/">連絡先</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+			
+			
+		</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+
+	<section id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+			
+<article id="post-292" class="post-292 page type-page status-publish hentry entry">
+
+	<header class="entry-header responsive-max-width">
+		
+<h1 class="entry-title">東海刑務所説明書</h1>
+	</header>
+
+	<div class="entry-content">
+		
+<p>東海刑務所を選んで下さり，誠にありがとうございます。<br><br>早速ですが，これを<strong>プレイの前</strong>にご熟読下さい。</p>
+
+
+
+<p><em><span style="color:#ff0000;" class="has-inline-color">About</span></em><br>「ここは東海刑務所。一度入れば刑罰の期間が終わるか，白骨となってしか出られないところ。<br>囚人は，怯えながら生活している」</p>
+
+
+
+<p><strong>実況について</strong></p>
+
+
+
+<p>実況は，許可制です。<br>以下のフォームなどで許可申請をお願いしたします。</p>
+
+
+
+<p><strong><span class="has-inline-color has-foreground-color">銃データパックについて</span></strong><br>当刑務所では，<a rel="noreferrer noopener" href="https://www.youtube.com/channel/UCQlXGu43ms0xBUEPh7Mx8fA" target="_blank">漆丸様</a>の<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=_SKKcx1O78A&amp;list=PLixgLaVoiz6gKX7G3d3BmsJI53wMl7WLC&amp;index=11&amp;t=0s" target="_blank">銃データパック</a>を採用しております。<br>データパックは既にワールドに適用しておりますので，削除することはなさらないようお願いいたします。<br>それに当たって，リソースパックを全員に導入ください。<br>リソースパックは，ダウンロードした「Tokai Prison Ver.{バージョン名}.zip」<br>をWクリックして「漆丸式銃データパック(このフォルダを解凍してください).zip」をまたWクリックします。<br>そのフォルダの中の「漆丸式銃リソースパック.zip」をMinecraftのリソースパックとして読み込んでください。<br>詳しくは，「漆丸式銃データパック(このフォルダを解凍してください).zip」の「説明書(絶対に読んでください).txt」に書いてあります。<br><br><strong><span class="has-inline-color has-primary-color">遊び方</span></strong><br>看守と囚人，来客に分かれ，看守は囚人を見張り，囚人は刑務所から脱獄します。<br>来客は，脱獄に必要なポーションを届けます。（来客を置くかは任意）<br>人数の比率ですが，リストを掲載しときます。</p>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table class="has-fixed-layout"><tbody><tr><td>看守</td><td>1人</td><td>2人</td><td>3人</td><td>5人</td><td>6人</td></tr><tr><td>来客</td><td>0人~5人</td><td>0人~5人</td><td>0人~5人</td><td>0人~5人</td><td>0人~5人</td></tr><tr><td>囚人</td><td>1~3人</td><td>5~8人</td><td>8~10人</td><td>10~14人</td><td>15~17人</td></tr></tbody></table><figcaption><strong><span class="uppercase">看守と囚人の比率（例）</span></strong></figcaption></figure>
+
+
+
+<p>看守は，脱獄経路を把握し，脱獄を阻止しましょう。<br>脱獄させる前に，素行などを見て囚人に評価をつけましょう。<br>これにより，処刑日を決めます。（決めてもすぐに通達せず，当日通達がドキドキするでしょう。日取りを決めたら<a rel="noreferrer noopener" href="http://bit.ly/3ieuPhz" target="_blank">bit.ly/3ieuPhz</a> のように所長室にある執行命令書に記入し，本人に突きつければ面白くなるのでは？？？と思います。）<br>そして，分かれたらスポーン地点にある，荷物を，看守，来客で取り，<br>囚人，看守は，先に刑務所に行きます。<br>来客は，頃合いを見計らって面会に行きます。<br><br><span class="has-inline-color has-primary-color"><strong>ルール</strong></span><br>ブロック積み上げ[絶対禁止！！！]<br>看守への嘘[バンバンついてください！]<br>MinecraftEULA等への違反[場合によって関係機関や110番への通報とします。]</p>
+
+
+
+<p><strong><span class="has-inline-color has-secondary-color">施設紹介</span></strong><br><strong>囚人収容棟</strong><br> <strong>通常囚人房</strong><br>    集団（一房につき4人)で入る囚人房。{マスターキーが必要}<br>    部屋の内容<br>    チェスト 一人1C<br>    ベッド １つずつ<br>    ドロッパー（アイテム受け渡し用）<br>  <strong>特別囚人房</strong><br>     独房。悪いことをした者or重大犯罪を犯した者用{マスターキーが必要}<br>      部屋の内容<br>      大釜(手洗い)<br>      ベッド<br>   <strong>看守室</strong><br>    看守が囚人が脱走しないように見張る部屋。<br>    売店の機能もある。<br><strong>管理棟</strong><br> 管理室 看守が休憩や事務仕事をする部屋。<br> 所長室 所長の執務室。現在所長はNakatai。<br> 倉庫 ｛マスターキーが必要」｝<br>  没収物保管庫 囚人が刑務所に持ち込もうとして看守に見つかった物を保管している。<br>                         一応，銃（ピストル）など永遠に返してもらえないものもある。<br>  銃器保管庫 武器が格納されている。{<em>マスターキーが必要</em>}<br>  会議室 看守たちが会議をするところ。 屋上にも出れる。<br><strong>電気室  </strong><br> ほぼすべての施設に送電をする部屋。<br> 過去にここの電源を落として脱獄未遂した輩がいるので<br> ここの電源は別系統にしている。<br> <em>送電非対象</em><br>  警備室<br>  新入調室<br><em><strong>拘置支所</strong></em><br> 未決囚を収容する場所。<br><strong>刑場</strong><br><strong> 死刑執行場</strong><br>  絶対に行きたくないところ。<br><strong> 教誨室<br></strong>  牧師さんが常駐。<br>  話を聞いてもらおう。<br>  遺言を書こう。<br><strong>クレジットゾーン</strong><br> 製作者の頭や，感謝したい方々の頭が飾ってある。</p>
+
+
+
+<p><strong>用語解説</strong></p>
+
+
+
+<p><em>東海刑務所</em><br> 日本最凶の刑務所。<br> 処遇指標を幅広く扱っている。<br>  <span class="uppercase">処遇指標</span><br>＊参考  <br>性、国籍、刑名、年齢及び刑期などによる処遇指標   <br>   W級　女子（Women）<br>   L級　執行刑期10年（2010年4月より8年から引き上げ）以上の者（Long）<br>   Y級　26歳未満の若年成人（Youth）<br>   M級　精神障害者（Mental）<br>   P級　身体上の疾患または障害のある者(Patient）<br>   犯罪傾向の進度による処遇指標<br>      A級　犯罪傾向の進んでいない者<br>      B級　犯罪傾向の進んでいる者（再犯・累犯・反社会的勢力）<br>     </p>
+
+
+
+<h1 class="has-text-align-center"><strong>お問合せフォーム</strong></h1>
+
+
+<div id="contact-form-292" class="wp-block-jetpack-contact-form">
+<form action="https://nakatai0322.wordpress.com/tokai-prison/users-manual/#contact-form-292" method="post" class="contact-form commentsblock wp-block-jetpack-contact-form">
+
+
+<div class="grunion-field-wrap grunion-field-name-wrap">
+<label for="g292" class="grunion-field-label name">ニックネーム<span>(必須)</span></label>
+<input type="text" name="g292" id="g292" value="" class="name" required aria-required="true">
+	</div>
+
+
+
+<div class="grunion-field-wrap grunion-field-text-wrap">
+<label for="g292-twitteriddiscordid" class="grunion-field-label text">TwitterIDもしくはDiscordID<span>(必須)</span></label>
+<input type="text" name="g292-twitteriddiscordid" id="g292-twitteriddiscordid" value="" class="text" required aria-required="true">
+	</div>
+
+
+
+<div class="grunion-field-wrap grunion-field-email-wrap">
+<label for="g292-1" class="grunion-field-label email">メールアドレス</label>
+<input type="email" name="g292-1" id="g292-1" value="" class="email">
+	</div>
+
+
+
+<div class="grunion-field-wrap grunion-field-text-wrap">
+<label for="g292-2" class="grunion-field-label text">要件<span>(必須)</span></label>
+<input type="text" name="g292-2" id="g292-2" value="" class="text" required aria-required="true">
+	</div>
+
+
+
+<div class="grunion-field-wrap grunion-field-textarea-wrap">
+<label for="contact-form-comment-g292-3" class="grunion-field-label textarea">本文<span>(必須)</span></label>
+<textarea name="g292-3" id="contact-form-comment-g292-3" rows="20" class="textarea" required aria-required="true"></textarea>
+	</div>
+
+
+<div class="wp-block-jetpack-button"><button class="wp-block-button__link" style="" data-id-attr="placeholder" type="submit">お問い合わせ</button></div>
+
+
+<p><strong>この刑務所はフィクションです。<br>現存するいかなる団体，刑務所等とは一切関係しておりません。</strong></p>
+
+
+
+<p><strong>このMinecraftワールドは，著作権により保護されています。</strong></p>
+
+		<input type="hidden" id="_wpnonce" name="_wpnonce" value="60f3abdbf3"><input type="hidden" name="_wp_http_referer" value="/tokai-prison/users-manual/">
+		<input type="hidden" name="contact-form-id" value="292">
+		<input type="hidden" name="action" value="grunion-contact-form">
+		<input type="hidden" name="contact-form-hash" value="3aff6425e4679622b5334d3ecaec11d1a1313b2f">
+</form>
+</div><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">共有:</h3><div class="sd-content"><ul><li class="share-press-this"><a rel="nofollow noopener noreferrer" data-shared="" class="share-press-this sd-button share-icon" href="https://nakatai0322.wordpress.com/tokai-prison/users-manual/?share=press-this" target="_blank" title="クリックして Press This から投稿"><span>Press This</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-292" class="share-twitter sd-button share-icon" href="https://nakatai0322.wordpress.com/tokai-prison/users-manual/?share=twitter" target="_blank" title="クリックして Twitter で共有"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-292" class="share-facebook sd-button share-icon" href="https://nakatai0322.wordpress.com/tokai-prison/users-manual/?share=facebook" target="_blank" title="Facebook で共有するにはクリックしてください"><span>Facebook</span></a></li><li class="share-end"></li></ul><p class="share-customize-link"><a href="https://jetpack.com/redirect/?source=calypso-marketing-sharing-buttons&#038;site=nakatai0322.wordpress.com" target="_blank" rel="noopener noreferrer">ボタンをカスタマイズする</a></p></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-176278093-292-5f77f9ccb49b1' data-src='//widgets.wp.com/likes/index.html?ver=20200826#blog_id=176278093&amp;post_id=292&amp;origin=nakatai0322.wordpress.com&amp;obj_id=176278093-292-5f77f9ccb49b1' data-name='like-post-frame-176278093-292-5f77f9ccb49b1'><h3 class='sd-title'>いいね:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>いいね</span></span> <span class="loading">読み込み中...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>	</div><!-- .entry-content -->
+
+			<footer class="entry-footer responsive-max-width">
+			<span class="edit-link"><a class="post-edit-link" href="https://wordpress.com/page/nakatai0322.wordpress.com/292">編集 <span class="screen-reader-text">東海刑務所説明書</span></a></span>		</footer><!-- .entry-footer -->
+	</article><!-- #post-292 -->
+
+		</main><!-- #main -->
+	</section><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+		<footer id="colophon" class="site-footer responsive-max-width">
+	
+		<div class="site-info">
+										<a class="site-name" href="https://nakatai0322.wordpress.com/" rel="home">Nakatai_0322Official-Site</a><span class="comma">,</span>
+						<a href="https://ja.wordpress.com/?ref=footer_website" rel="nofollow">WordPress.com で無料サイトやブログを作成.</a>					</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<!--  -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(document).ready( function($) {
+			function doFollowingHover() {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				$('#wp-admin-bar-follow > a').bind( 'mouseover.unfollow', function() {
+
+					$(this).html( "\u30d5\u30a9\u30ed\u30fc\u89e3\u9664" ).parent( 'li' ).addClass( 'unfollow' );
+				});
+				$('#wp-admin-bar-follow > a').bind( 'mouseout.unfollow', function() {
+					$(this).html( "\u30d5\u30a9\u30ed\u30fc\u4e2d" ).parent( 'li' ).removeClass( 'unfollow' );
+				});
+			}
+							doFollowingHover();
+			
+			$('#wp-admin-bar-follow > a').click( function( e ) {
+				$('#wp-admin-bar-follow > a').unbind( '.unfollow' );
+
+				e.preventDefault();
+
+				var link = $( this ), li = $( '#wp-admin-bar-follow' ), timeout = 0;
+
+				if ( li.hasClass( 'subscribed' ) ) {
+					li.removeClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "\u30d5\u30a9\u30ed\u30fc" );
+
+					$('body').append( $( 'div.wpcom-bubble' ).removeClass( 'fadein' ) ).off( 'click.bubble' );
+
+					var action = 'ab_unsubscribe_from_blog';
+				} else {
+					li.addClass( 'subscribed' ).removeClass( 'unfollow' );
+					link.html( "\u30d5\u30a9\u30ed\u30fc\u4e2d" );
+
+						var left = 131 - link.width();
+						li.append( $( 'div.wpcom-bubble' ).css( { left: '-' + left + 'px' } ) );
+						$( 'div.bubble-txt', 'div.wpcom-bubble' ).html( "\u4eca\u5f8c \u003Ca target=\u0022_blank\u0022 href=\u0022http:\/\/ja.wordpress.com\/\u0022\u003EReader\u003C\/a\u003E \u753b\u9762\u306b\u3053\u306e\u30d6\u30ed\u30b0\u304b\u3089\u306e\u65b0\u3057\u3044\u6295\u7a3f\u304c\u8868\u793a\u3055\u308c\u307e\u3059\u3002\u003Ca target=\u0022_blank\u0022 href=\u0022http:\/\/ja.wordpress.com\/following\/edit\/\u0022\u003E\u8cfc\u8aad\u7ba1\u7406\u753b\u9762\u003C\/a\u003E\u304b\u3089\u30e1\u30fc\u30eb\u901a\u77e5\u3092\u7ba1\u7406\u3067\u304d\u307e\u3059\u3002" );
+
+						$( 'div.wpcom-bubble.action-bubble' ).addClass( 'fadein' );
+
+						setTimeout( function() {
+							$('body').on( 'click.bubble touchstart.bubble', function(e) {
+								if ( !$(e.target).hasClass('wpcom-bubble') && !$(e.target).parents( 'div.wpcom-bubble' ).length )
+									hideBubble();
+							});
+							setTimeout( hideBubble, 15000 );
+						}, 500 );
+
+					var action = 'ab_subscribe_to_blog';
+					$('#wp-admin-bar-follow > a').bind( 'mouseout.shift', function() {
+						doFollowingHover();
+						$(this).unbind( '.shift' );
+					});
+				}
+
+				var nonce = link.attr( 'href' ).split( '_wpnonce=' );
+				nonce = nonce[1];
+
+				$.post( "https:\/\/nakatai0322.wordpress.com\/wp-admin\/admin-ajax.php", {
+					'action': action,
+					'_wpnonce': nonce,
+					'source': 'admin_bar',
+					'blog_id': 176278093				});
+			});
+		});
+	/* ]]> */
+	</script>
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202040y' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":"a77b39d1d58d87119d43fc31d6c500dc"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-a77b39d1d58d87119d43fc31d6c500dc">
+	</div>
+	</div>
+<div id="report-form-window" style="display:none;"></div>
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/nakatai0322.wordpress.com\/tokai-prison\/users-manual\/":292};
+	</script>
+				<div class="widget widget_eu_cookie_law_widget">
+<div
+	class="hide-on-button ads-active"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="閉じて承認" class="accept" />
+
+		プライバシーと Cookies:このサイトは Cookies を使用しています。このサイトの使用を続けると、Cookie の使用に同意したとみなされます。<br />
+Cookie の管理方法を含め、詳細についてはこちらをご覧ください:
+				<a href="https://automattic.com/cookies" rel="nofollow">
+			Cookie ポリシー		</a>
+ </form>
+</div>
+</div><link rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/grunion-contact-form/css/grunion.css?m=1597852966h&cssminify=yes' type='text/css' media='all' />
+<script id='thickbox-js-extra'>
+var thickboxL10n = {"next":"\u6b21\u3078 >","prev":"< \u524d\u3078","image":"\u753b\u50cf","of":"\/","close":"\u9589\u3058\u308b","noiframes":"\u3053\u306e\u6a5f\u80fd\u3067\u306f iframe \u304c\u5fc5\u8981\u3067\u3059\u3002\u73fe\u5728 iframe \u3092\u7121\u52b9\u5316\u3057\u3066\u3044\u308b\u304b\u3001\u5bfe\u5fdc\u3057\u3066\u3044\u306a\u3044\u30d6\u30e9\u30a6\u30b6\u30fc\u3092\u4f7f\u3063\u3066\u3044\u308b\u3088\u3046\u3067\u3059\u3002","loadingAnimation":"https:\/\/s0.wp.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+</script>
+<script id='comment-like-js-extra'>
+var comment_like_text = {"loading":"\u8aad\u307f\u8fbc\u307f\u4e2d\u2026"};
+</script>
+<script id='notes-rest-common-js-extra'>
+var wpNotesArgs = {"cacheBuster":"@automattic\/jetpack-blocks@13.1.0-9563-g64ddcd6103","iframeUrl":"https:\/\/widgets.wp.com\/notifications\/","iframeAppend":"2","iframeScroll":"no","wide":"1"};
+</script>
+<script id='tos-report-form-js-extra'>
+var wpcom_tos_report_form = {"ajaxurl":"\/wp-admin\/admin-ajax.php","isLoggedoutUser":"","post_ID":"292","current_url":"https:\/\/nakatai0322.wordpress.com\/tokai-prison\/users-manual","report_this_content":"\u3053\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u5831\u544a"};
+</script>
+<script id='wpcom-actionbar-bar-js-extra'>
+var actionbardata = {"siteID":"176278093","siteName":"Nakatai_0322Official-Site","siteURL":"http:\/\/nakatai0322.wordpress.com","icon":"<img alt='' src='https:\/\/nakatai0322.files.wordpress.com\/2020\/04\/e38380e382a6e383b3e383ade383bce38389-1.png?w=32' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"1","canCustomizeSite":"1","isFollowing":"1","themeSlug":"pub\/hever","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fnakatai0322.wordpress.com%2Ftokai-prison%2Fusers-manual%2F&signup_flow=account","themeURL":"https:\/\/wordpress.com\/theme\/hever\/","xhrURL":"https:\/\/nakatai0322.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"165bcb6c6d","isSingular":"1","isFolded":"","isLoggedIn":"1","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"ddeb132ef8\" \/>","referer":"https:\/\/nakatai0322.wordpress.com\/tokai-prison\/users-manual\/","canFollow":"1","feedID":"105429230","statusMessage":"","customizeLink":"https:\/\/nakatai0322.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fnakatai0322.wordpress.com%2Ftokai-prison%2Fusers-manual%2F","postID":"292","shortlink":"https:\/\/wp.me\/PbVDZ3-4I","canEditPost":"1","editLink":"https:\/\/wordpress.com\/block-editor\/page\/nakatai0322.wordpress.com\/292","statsLink":"https:\/\/wordpress.com\/stats\/post\/292\/nakatai0322.wordpress.com","i18n":{"view":"\u30b5\u30a4\u30c8\u3092\u8868\u793a","follow":"\u30d5\u30a9\u30ed\u30fc","following":"\u30d5\u30a9\u30ed\u30fc\u4e2d","edit":"\u7de8\u96c6","login":"\u30ed\u30b0\u30a4\u30f3","signup":"\u767b\u9332","customize":"\u30ab\u30b9\u30bf\u30de\u30a4\u30ba","report":"\u3053\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u5831\u544a","themeInfo":"\u30c6\u30fc\u30de\u306e\u8a2d\u5b9a\u306b\u30b5\u30dd\u30fc\u30c8\u304c\u5fc5\u8981\u306a\u5834\u5408","shortlink":"\u77ed\u7e2e\u30ea\u30f3\u30af\u3092\u30b3\u30d4\u30fc","copied":"\u30b3\u30d4\u30fc\u3057\u307e\u3057\u305f","followedText":"\u4eca\u5f8c\u3053\u306e\u30b5\u30a4\u30c8\u306e\u65b0\u3057\u3044\u6295\u7a3f\u304c <a href=\"https:\/\/wordpress.com\/\">Reader<\/a> \u306b\u8868\u793a\u3055\u308c\u307e\u3059","foldBar":"\u3053\u306e\u30d0\u30fc\u3092\u6298\u308a\u305f\u305f\u3080","unfoldBar":"\u3053\u306e\u30d0\u30fc\u3092\u5c55\u958b","editSubs":"\u8cfc\u8aad\u7ba1\u7406","viewReader":"\u30b5\u30a4\u30c8\u3092 Reader \u3067\u8868\u793a","viewReadPost":"Reader \u3067\u6295\u7a3f\u3092\u8868\u793a","subscribe":"\u767b\u9332\u3059\u308b","enterEmail":"\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u5165\u529b","followers":"\u73fe\u5728197\u4eba\u30d5\u30a9\u30ed\u30ef\u30fc\u304c\u3044\u307e\u3059\u3002","alreadyUser":"WordPress.com \u306e\u30a2\u30ab\u30a6\u30f3\u30c8\u3092\u3059\u3067\u306b\u304a\u6301\u3061\u3067\u3059\u304b ? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fnakatai0322.wordpress.com%2Ftokai-prison%2Fusers-manual%2F&signup_flow=account\">\u4eca\u3059\u3050\u30ed\u30b0\u30a4\u30f3<\/a>","stats":"\u7d71\u8a08\u60c5\u5831"}};
+</script>
+<script id='sharing-js-js-extra'>
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVU9tSwyAQ/SEpto7O9MHxWwjZJkvCRXZJql8vVBttTFN94bLnHPaKHIPQ3jE4loZkDQNqCMeNoTt5CQVPbIFINXBG0ek+1UAF5hZ1V/njdFh4wrwmiG9f2wbdgDDepBngoHQnIhC+w5xukwh9atCR7LHLoWRRgla5uoe4FGfrB4h4EgtDG4tuiaXqDIhKxZ+EBZ8TL+PaW/Gtu67JPFu8f8ZrSuCVpBHDWnK/RBeGFeGIdQNMElJGfYcgejVKBht6xTCzL5UiuRoiaR/hWrEqVRruYKlWGbaJWOl2LTvnSyinVZTEvBPD7iZ/KvY6mT3l4Qk+sjj4aOf3P3XXKmKIxVUZn4gl88n2zxc45nqttUxpRu+KaDqtsMu/FIdeYZTUqjzazXnPohf7vH263z7s94/7nfkALIR4Mg=='></script>
+<script type='text/javascript'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+</script>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>		<iframe src='https://widgets.wp.com/likes/master.html?ver=20200826#ver=20200826&amp;lang=ja' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span>人のブロガーが「いいね」をつけました。</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+<script src="//stats.wp.com/w.js?61" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['identifyUser', 182809728, 'nakatai0322']);
+_tkq.push(['storeContext', {'blog_id':'176278093','blog_tz':'9','user_lang':'ja','blog_lang':'ja'}]);
+_stq.push(['view', {'blog':'176278093','v':'wpcom','tz':'9','user':'1','user_id':'182809728','post':'292','subd':'nakatai0322'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1zNDZ8S252Wis9XUQyb3YrcUVIU2R0VH5TcUpqcF9NWi1bMDJfLy90VXNvY2U3ZFZ1RWlDZ2dfWmwuT1t4W0UvdX4lUm9+NF9sWyx+b1I9Nm1idyxpa1lEL3l6TD1JZzczY1FvR2YvJmJIT1RTSSV0XUdjaHx3Z0Q4N09nZz9ONHxuX1t+Qzd5K3FfajNbeVt0dWRDMW1MeG1kb35kYmRWLWE2U2Znc2tOP3FBJnhTVk1CSDJlRXpxQnM/TU1lUTc1eVhBLUg/dXxQUkZxanRmRV1LK2Z0Ull0d35Dc3Rmb2phcHl6SGZGK2pzOWJrNVZ8K3E5WS9FNg=='}]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
