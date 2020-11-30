@@ -4,9 +4,7 @@ HP:https://wp.me/PbVDZ3-49
 
 ## Credits
 
-Project-Owner,Create Nakatai_0322
-
-Create Everyone on the Tokai-Prison-management-team
+Project-Owner Creator Nakatai_0322
 
 # Special Thanks
 
